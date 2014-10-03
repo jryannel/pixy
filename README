@@ -1,0 +1,20 @@
+Pixy
+====
+
+A demonstration of rapid ui prototyping user interfaces. The idea is to provide a QML based list of images with an image viewer. This is done in 3 steps. Each steps shows another layer for user interfaces: structure, surface, content.
+
+Structure
+---------
+
+For structure it uses a wireframing concept based on simple QML components and a marker (which is a semi transparent element).
+
+Surface
+-------
+
+Adding visual elements to the structure to polish the user interface
+
+Content
+-------
+
+Providing real data for the UI simulation
+
