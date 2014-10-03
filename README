@@ -8,13 +8,23 @@ Structure
 
 For structure it uses a wireframing concept based on simple QML components and a marker (which is a semi transparent element).
 
+* pixy01a - initial code
+* pixy01z - final code
+
 Surface
 -------
 
 Adding visual elements to the structure to polish the user interface
 
+* pixy02a - initial code
+* pixy02z - final code
+
 Content
 -------
 
-Providing real data for the UI simulation
+Providing real data for the UI simulation (requires the dataprovider repo)
+
+* pixy03a - initial code
+* pixy03z - final code
+
 
